@@ -1,0 +1,12 @@
+# IntelliJ
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+.DS_Store
