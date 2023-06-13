@@ -7,6 +7,7 @@ This document lists the Maintainers of the Prime. Maintainers may be added once 
 | Eric Konieczny | [@ekoniec1](https://github.com/ekoniec1)               | [CodifyIQ](https://www.codifyiq.com/)                        |
 | Ryan Ashcraft  | [@d-ryan-ashcraft](https://github.com/d-ryan-ashcraft) | [CodifyIQ](https://www.codifyiq.com/)                        |
 | Kevin Dendtler | [@kdendtler](https://github.com/kdendtler)             | [Counterpointe Solutions, Inc.](https://www.cpointe-inc.com) |
+| Emily Wilkins  | [@ewilkins-csi](https://github.com/ewilkins-csi)       | [Counterpointe Solutions, Inc.](https://www.cpointe-inc.com) |
 | ...            | ...                                                    | ...                                                          |
 
 
